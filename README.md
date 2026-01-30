@@ -307,12 +307,6 @@ MIT License - See LICENSE file for details
 
 ---
 
-## ⚠️ Disclaimer
-
-This tool is for research and educational purposes. While GPT-4 has extensive biological knowledge, always validate interpretations with literature and domain experts before making clinical decisions.
-
----
-
 **🌟 Star this repo if you find it useful!**
 
 Built with ❤️ in Beijing | For accessible genomics worldwide
